@@ -20,7 +20,6 @@
 | `chapter09-memory` | 短期 / 长期记忆 |
 | `chapter10-RAG` | RAG 全流程（含 Atguigu 客服知识库案例 Notebook） |
 | `langgraph-01` | LangGraph 工作流 |
-| `todo_workspace` | 任务编排示例 |
 
 ---
 
